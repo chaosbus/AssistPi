@@ -1,0 +1,1 @@
+CFG = 'cfg.cfg.debug'
